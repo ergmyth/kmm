@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bnv_draft">Draft</string>
+    <string name="bnv_live">Live</string>
+    <string name="bnv_stats">Statistics</string>
+    <string name="bnv_settings">Settings</string>
+</resources>
